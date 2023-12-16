@@ -1,0 +1,63 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wapper .heading {
+    text-align: center;
+    margin-top: 20px;
+}
+  
+.wapper .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+  
+.wapper .input {
+    margin: 10px;
+}
+  
+.wapper label {
+    display: block;
+    margin-bottom: 5px;
+}
+  
+.wapper input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 150px;
+}
+  
+.wapper button {
+    display: block;
+    margin: 5px auto;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.wapper .result {
+    text-align: center;
+    padding: 10px;
+    border: 3px solid black;
+    background: #ffffff;
+}
+.wapper .result .numArr {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    background: #ccc;
+}
+
+.wapper .result .sum {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    background: #00ff00;
+}
