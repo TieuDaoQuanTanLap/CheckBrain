@@ -1,3 +1,1 @@
-Em xin lỗi thầy/cô chấm bài vì đã nộp! Do sáng nay nhà em đột nhiên cúp điện nên em không thể vào làm bài được.
-Em không biết cách lấy ảnh trong figma nên đã thay ảnh đại diện bằng ảnh có sẵng trong máy em ở bài 2 nên em mong được thông cảm ạ!
-Về việc nộp bài trễ và sửa nội dung như mô tả thì là lỗi tại em nên em xin chấp nhận trừ điểm nếu có ạ!
+Dạ do em không biết cách nào để lấy hình ảnh trên figma nên đã dùng ảnh có sẵng để làm avatar cho bài 2 ạ. Với lại em thường hay dùng google dịch để dùng cách từ tiếng anh đặt cho các biến js nhưng do em tắt wifi đi để làm bài như đúng quy định nên em đặt các tên biến thành tiếng việt và sắp xếp thứ tự code cũng không rõ ràng do chưa có kinh nghiệm. Nên em mong thầy/cô chấm bài thông cảm giúp em ạ!
